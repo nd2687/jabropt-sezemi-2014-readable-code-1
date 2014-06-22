@@ -1,1 +1,2 @@
-# readme
+# 開発言語
+Ruby
